@@ -1,16 +1,31 @@
-### Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**lcocastilho/lcocastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luís Cláudio de Oliveira Castilho
 
-Here are some ideas to get you started:
+### Formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Graduado em Física pela UNESP
+
+- Mestrado em Ensino de Física pela UFF
+
+- Formação em Engenharia Civil (UNESP)
+
+- Formação em Informática - Banco de Dados e Rede de Computadores (FATEC)
+
+- Formação em Engenharia Física (USP)
+
+- Graduando em Engenharia da Computação (UNIVESP)
+
+### Profissional
+
+Atuo como professor na Rede Estadual de São Paulo, ministrando aulas de Física e Tecnologia e Robótica.
+
+### Contato
+
+📧 lcocastilho@gmail.com
+
+@lcocastilho
+
+@lcocstilho01
+
+
